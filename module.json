@@ -1,0 +1,11 @@
+{
+    "id" : "ujjmanship",
+    "version" : "0.1.0",
+    "displayName" : "ujjmanship Faction",
+    "description" : "Content related to ujjmanship Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
