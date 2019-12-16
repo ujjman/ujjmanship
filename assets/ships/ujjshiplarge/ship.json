@@ -30,7 +30,7 @@
 
   "particleEmitters": [
     {
-      "position": "0.15 0.42",
+      "position": "0.23 0.42",
       "trigger": "engine",
       "hasLight": true,
       "particle": {
@@ -40,7 +40,7 @@
         "tint": "hsb 360 100 100"
       }},
     {
-      "position": "0.15 0.62",
+      "position": "0.23 0.62",
       "trigger": "engine",
       "hasLight": true,
       "particle": {
