@@ -1,6 +1,11 @@
 {
 
-  "ujjmanship": {
+  "ujjmanshipmed": {
+    "hull": "ujjmanship:shipmed",
+    "items": "99*rep core:advancedArmor-1 core:advancedShield-1 core:fixedGun-1 core:fixedGun-2 99*core:bulletClip",
+    "money": 2310
+  },
+  "ujjmanshiplarge": {
     "hull": "ujjmanship:ship",
     "items": "99*rep core:advancedArmor-1 core:advancedShield-1 ujjmanship:sword-1 ujjmanship:sword-2 99*core:bulletClip",
     "money": 2310
